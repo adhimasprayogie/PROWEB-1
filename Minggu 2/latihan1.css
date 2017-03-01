@@ -1,0 +1,27 @@
+.title{
+    background-color: #33bebe;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+
+
+.screenshot{
+    
+    padding: 5px;
+
+}
+    
+    
+.app {
+    display: -webkit-flex;
+    display:  inline-flex;
+}    
+
+.description {
+    padding-left: 5px;
+    text-align: left;
+    text-indent: 0.5in;
+    color: #7c8b88;    
+}
