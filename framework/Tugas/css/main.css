@@ -33,14 +33,14 @@ h4{
 	vertical-align: bottom;
 }
 
-.isi{
+.container{
 	margin-left: 20%;
 	margin-right: 20%;
 	background-color: #f4f5f0;
 }
 
 .row{
-    width: 100%;
+    width: 100%;    
   	display: flex;
   	flex-wrap: wrap;
 	margin-bottom: none;
